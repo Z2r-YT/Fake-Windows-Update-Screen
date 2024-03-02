@@ -7,6 +7,7 @@ A HTML5 project with the intent of tricking your friends into believing their co
 [Go to the webpage mirrored on Vercel](REPLACEME)
 
 Appreciate this page?
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/LiamZ2r)
 
 This project disables your mouse cursor, and inspect element keys, all you have to do is open the webpage, press F11, and wait for them to come back to their seat in anger.
