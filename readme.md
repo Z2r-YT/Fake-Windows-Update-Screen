@@ -2,9 +2,9 @@
 
 A HTML5 project with the intent of tricking your friends into believing their computer is updating.
 
-[Go to the webpage on GitHub Pages](REPLACEME)
+[Go to the webpage on GitHub Pages](https://z2r-yt.github.io/Fake-Windows-Update-Screen/)
 
-[Go to the webpage mirrored on Vercel](REPLACEME)
+[Go to the webpage mirrored on Vercel](https://windowsupdate.vercel.app/)
 
 Appreciate this page?
 
