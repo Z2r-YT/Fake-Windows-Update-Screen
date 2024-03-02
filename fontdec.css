@@ -1,0 +1,35 @@
+/* for some reason chromium based browsers pretend like Segoe Boot doesnt exist, maybe it's a Windows issue,
+but it works fine in FireFox so i doubt it is. anyway, this just declares the font as woff2 files, so if the browser
+cant find the font installed on windows, it'll do a switcheroo and place these in.
+
+you may ask "dude, why dont you just get a gif or webp of the animation, heck an APNG, an SVG???? and to that i say
+FRAMERATE and REALISM!!!! The boot menu uses this exact font, so, instead of wasting my time in after effects
+making a 1:1 replica of these damn circles, or making a VM and screen recording it, im just gonna use the font
+that windows uses in the bootseq. its easy, its realistic, and its haha funny.*/
+
+@font-face {
+    font-family: 'Segoe Mono Boot';
+    src: url('src/font/SegoeMonoBoot.woff2') format('woff2'),
+        url('src/font/SegoeMonoBoot.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Segoe Boot Semilight';
+    src: url('src/font/SegoeBoot-Semilight.woff2') format('woff2'),
+        url('src/font/SegoeBoot-Semilight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Segoe Boot Semilight';
+    src: url('src/font/SegoeBoot-Semilight.woff2') format('woff2'),
+        url('src/font/SegoeBoot-Semilight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}

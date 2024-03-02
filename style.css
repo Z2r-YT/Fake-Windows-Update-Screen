@@ -1,0 +1,38 @@
+/* global vars */
+:root {
+    --BGcolour: black;
+    --TextColour: white;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    user-select: none;
+    background-color: var(--BGcolour);
+    color: var(--TextColour);
+    cursor: none;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+    padding: 0;
+    margin: 2px;
+    font-weight: 650;
+    font-size: 25px;
+    mix-blend-mode: difference;
+}
+
+.spinner{
+    font-family: Segoe Boot Semilight;
+    font-size: 50px;
+    margin-bottom: 15px;
+    mix-blend-mode: difference;
+}
